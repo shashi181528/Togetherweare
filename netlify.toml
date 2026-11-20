@@ -1,5 +1,0 @@
-[build]
-  # Serve the static files directly; no generated _site directory is needed.
-  # Keep this non-empty to override any saved Jekyll build command.
-  command = "echo 'Static site ready; no build required'"
-  publish = "."
